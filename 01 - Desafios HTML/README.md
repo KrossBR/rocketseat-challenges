@@ -1,17 +1,18 @@
 # Desafios HTML
 
-## 💻 Sobre o desafio
+Realizado: 16/06/2022
 
----
+
+## 💻 Sobre o desafio
 
 Essa é uma série de desafios básicos feitos para praticar seus conhecimentos em HTML.
 
-[1. Glossário](https://www.notion.so/1-Gloss-rio-03e398f3c3e642b0a17c344aa354601f)
+[1. Glossário](https://github.com/KrossBR/rocketseat-challenges/blob/master/01%20-%20Desafios%20HTML/glossary.html)
 
-[2. Formulário de contato](https://www.notion.so/2-Formul-rio-de-contato-7bb047fc602f48a1859e02882ddd547b)
+[2. Formulário de contato](https://github.com/KrossBR/rocketseat-challenges/blob/master/01%20-%20Desafios%20HTML/contato.html)
 
-[3. Lista de compras](https://www.notion.so/3-Lista-de-compras-91ff11e5af754cb48b51ff56e272a89d)
+[3. Lista de compras](https://github.com/KrossBR/rocketseat-challenges/blob/master/01%20-%20Desafios%20HTML/shopping-list.html)
 
-[4. Quiz](https://www.notion.so/4-Quiz-46ee27c74c00436db6368b3855ee7dbc)
+[4. Quiz](https://github.com/KrossBR/rocketseat-challenges/blob/master/01%20-%20Desafios%20HTML/quiz.html)
 
-[5. Blog Post](https://www.notion.so/5-Blog-Post-46d74c84a63c4e628739cc8a4fa7898f)
+[5. Blog Post](https://github.com/KrossBR/rocketseat-challenges/blob/master/01%20-%20Desafios%20HTML/blog-post.html)
