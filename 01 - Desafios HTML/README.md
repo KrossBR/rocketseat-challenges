@@ -5,7 +5,7 @@ Realizado: 16/06/2022
 
 ## 💻 Sobre o desafio
 
-Essa é uma série de desafios básicos feitos para praticar seus conhecimentos em HTML.
+Essa é uma série de desafios básicos feitos para praticar os conhecimentos em HTML.
 
 [1. Glossário](https://github.com/KrossBR/rocketseat-challenges/blob/master/01%20-%20Desafios%20HTML/glossary.html)
 
